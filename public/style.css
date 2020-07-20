@@ -1,0 +1,39 @@
+html,
+body {
+  font-family: funghetto;
+  color: limegreen;
+  margin: 0;
+  background-color: rgb(138, 69, 138);
+}
+
+nav {
+  margin-top: 0;
+  background-color: rgb(110, 228, 110);
+  width: 100%;
+  height: 6rem;
+  margin: 0;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+}
+
+li {
+  margin: 0 5rem;
+  list-style-type: none;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+img {
+  width: 20rem;
+}
+
+a {
+  color: rgb(4, 134, 221);
+}
